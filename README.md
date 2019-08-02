@@ -28,3 +28,5 @@ Thank's to
 * 0xyD4ff0x a.k.a A55H0L3
 * W3LLFR13ND-TEAM
 * etc
+
+![GitHub watchers](https://img.shields.io/github/watchers/oxyda-fox/OXIDTools?color=orange&label=Watched%20by&style=flat-square)
