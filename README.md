@@ -1,6 +1,6 @@
 # OXIDTools
 
-![codename](https://img.shields.io/badge/Codename-0xiD4ff0x-orange?style=for-the-badge&logo=python.svg) [![instagram](https://img.shields.io/badge/Instagram-@risnfdllh9-ff69b4?style=plastic&logo=instagram.svg)](https://instagram.com/risnfdllh9) ![facebook](https://img.shields.io/badge/Facebook-SDrisna-blue?style=plastic&logo=facebook.svg)
+![codename](https://img.shields.io/badge/Codename-0xiD4ff0x-orange?style=for-the-badge&logo=python.svg) [![instagram](https://img.shields.io/badge/Instagram-@risnfdllh9-ff69b4?style=plastic&logo=instagram.svg)](https://instagram.com/risnfdllh9) [![facebook](https://img.shields.io/badge/Facebook-SDrisna-blue?style=plastic&logo=facebook.svg)](https://facebook.com/exmorty99)
 
 # Read First
 
