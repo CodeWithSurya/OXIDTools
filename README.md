@@ -2,10 +2,11 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-@risnfdllh9-ff69b4?style=plastic&logo=instagram.svg)](https://instagram.com/risnfdllh9)
 
-Read First
-----
+# Read First
 
 ID :
+----
+
 Ini adalah tools gratis yang siap
 untuk di install pada aplikasi termux
 anda. Semuanya tersusun dan diringkas
@@ -15,6 +16,8 @@ hanya dengan satu klik. Didalamnya berisi
 meretas dan menjahili teman anda.
 
 EN :
+----
+
 This is a free tool that is ready to
 be installed on your Termux application.
 Everything is arranged and summarized
