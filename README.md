@@ -1,4 +1,7 @@
 # OXIDTools
+
+[![instagram(https://img.shields.io/badge/Instagram-@risnfdllh9-ff69b4?style=flat&logo=instagram)](https://instagram.com/risnfdllh9)
+
      ID :
          Ini adalah tools gratis yang siap
          untuk di install pada aplikasi termux
@@ -16,5 +19,7 @@
          with just one click. It contains 200 tools
          that you can use to hack and bully your friends.
 
-# 0xyD4ff0x
-# W3LLFR13ND-TEAM
+Thank's to
+----
+•0xyD4ff0x
+•W3LLFR13ND-TEAM
