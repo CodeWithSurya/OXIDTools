@@ -1,0 +1,2 @@
+# OXIDTools
+sh setup.sh
