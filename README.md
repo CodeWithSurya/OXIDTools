@@ -2,6 +2,9 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-@risnfdllh9-ff69b4?style=plastic&logo=instagram.svg)](https://instagram.com/risnfdllh9)
 
+Read First
+----
+
      ID :
          Ini adalah tools gratis yang siap
          untuk di install pada aplikasi termux
@@ -21,6 +24,6 @@
 
 Thank's to
 ----
-•0xyD4ff0x
-  
+
+•0xyD4ff0x  
 •W3LLFR13ND-TEAM
