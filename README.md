@@ -1,6 +1,6 @@
 # OXIDTools
 
-[![instagram](https://img.shields.io/badge/Instagram-@risnfdllh9-ff69b4?style=flat&logo=instagram)](https://instagram.com/risnfdllh9)
+[![instagram](https://img.shields.io/badge/Instagram-@risnfdllh9-ff69b4?style=plastic&logo=instagram.svg)](https://instagram.com/risnfdllh9)
 
      ID :
          Ini adalah tools gratis yang siap
@@ -22,4 +22,5 @@
 Thank's to
 ----
 •0xyD4ff0x
+  
 •W3LLFR13ND-TEAM
