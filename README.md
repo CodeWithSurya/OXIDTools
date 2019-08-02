@@ -29,4 +29,4 @@ Thank's to
 * W3LLFR13ND-TEAM
 * etc
 
-![GitHub watchers](https://img.shields.io/github/watchers/oxyda-fox/OXIDTools?color=orange&label=Watched%20by&style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/oxyda-fox/OXIDTools?color=orange&label=Watched%20by&style=flat-square)    ![GitHub repo size](https://img.shields.io/github/repo-size/oxyda-fox/OXIDTools?color=red&style=flat-square)
